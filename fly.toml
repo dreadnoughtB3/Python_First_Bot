@@ -1,0 +1,9 @@
+# fly.toml file generated for 20230313 on 2023-03-13T08:04:06+09:00
+
+app = "20230313"
+kill_signal = "SIGINT"
+kill_timeout = 5
+primary_region = "nrt"
+processes = []
+
+[env]
